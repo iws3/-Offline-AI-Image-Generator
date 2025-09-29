@@ -1,5 +1,8 @@
 # 🎨 Offline AI Image Generator
 
+![WhatsApp Image 2025-09-29 at 6 18 38 AM](https://github.com/user-attachments/assets/d43648d9-48f6-4be1-a77c-8740944d6ea7)
+
+
 A beautiful, fast, and **completely offline** AI image generation studio powered by Stable Diffusion. Generate stunning images from text descriptions without internet connection or API costs.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
